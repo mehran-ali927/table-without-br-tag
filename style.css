@@ -1,0 +1,100 @@
+table{
+    border: 1px solid black ;
+    margin: 0px auto;
+    width: 60%;
+    height: 50%;
+    border-spacing: 0;
+}
+.tr{
+    background-color: yellow;
+}
+td{
+    border: 1px solid black;
+    border-spacing: 0;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: rgb(38, 177, 61);
+}
+
+.helium{
+    background-color: rgb(59, 87, 94);
+    color: white;
+    text-align: center;
+}
+
+
+.center{
+    text-align: center;
+}
+.table2{
+    border: 2px solid black ;
+    margin: 0px auto;
+    width: 50%;
+    height: 50%;
+    border-spacing: 0;
+}
+
+.browncolor{
+    background-color: #562e56;
+    color: white;
+}
+
+.blueshade{
+    background-color: #014d75;
+    color: white;
+}
+.grayshade{
+    background-color: #84bcbd;
+    color: white;
+}
+
+.bluecolor{
+    background-color: #1b67c9;
+    color: white;
+}
+.halfbrown{
+    background-color: #a166a0;
+    color: white;
+}
+
+.halfwhite{
+    background-color: #859998;
+    color: white;
+}
+.green{
+    background-color: #59cf6e;
+    color: white;
+}
+
+.cyancolor{
+    background-color: #00b6bc;
+    color: white;
+}
+
+.goldcolor{
+    background-color: #f4b65b;
+    color: white;
+}
+.orangecolor{
+    background-color: #f36d4a;
+    color: white;
+}
+
+.halfred{
+    background-color: #f53951;
+    color: white;
+}
+
+.td39{
+    background-color: #004e75;
+    color: white;
+}
+.td89{
+    background-color: #572e56;
+    color: white;
+}
+
+
+
